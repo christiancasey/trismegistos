@@ -8,7 +8,7 @@ You can modify the script to scrape other sorts of data (e.g. Greek texts)
 
 ## Demotic Results
 
-![Demotic Data](TM_texts.eps)
+![Demotic Data](TM_texts.png)
 
 The method for generating the plot is adapted from:
 
